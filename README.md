@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate  com novos Tech Recruiter
 - 📫 How to reach me  recguimaraes@hotmail.com
 
-https://www.linkedin.com/in/lainne-guimar%C3%A3es/
 <!---
 LainneGuimaraes/LainneGuimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
